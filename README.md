@@ -1,6 +1,6 @@
 # pokemon_scraper
 
-[Latest files](https://flatgithub.com/<repo>/blob/<branch>/output/result.json?filename=<path>)
+[Latest files](https://flatgithub.com/lassebenni/pokeapi-scraper/blob/main/output/pokemon.json)
 
 ## Setup
 
