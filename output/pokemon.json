@@ -1,101 +1,101 @@
 [
     {
-        "updated": "2023-01-25 07:13:28.245172",
+        "updated": "2023-01-26 07:11:16.336122",
         "name": "bulbasaur",
         "url": "https://pokeapi.co/api/v2/pokemon/1/"
     },
     {
-        "updated": "2023-01-25 07:13:28.245184",
+        "updated": "2023-01-26 07:11:16.336131",
         "name": "ivysaur",
         "url": "https://pokeapi.co/api/v2/pokemon/2/"
     },
     {
-        "updated": "2023-01-25 07:13:28.245191",
+        "updated": "2023-01-26 07:11:16.336137",
         "name": "venusaur",
         "url": "https://pokeapi.co/api/v2/pokemon/3/"
     },
     {
-        "updated": "2023-01-25 07:13:28.245197",
+        "updated": "2023-01-26 07:11:16.336142",
         "name": "charmander",
         "url": "https://pokeapi.co/api/v2/pokemon/4/"
     },
     {
-        "updated": "2023-01-25 07:13:28.245204",
+        "updated": "2023-01-26 07:11:16.336148",
         "name": "charmeleon",
         "url": "https://pokeapi.co/api/v2/pokemon/5/"
     },
     {
-        "updated": "2023-01-25 07:13:28.245211",
+        "updated": "2023-01-26 07:11:16.336154",
         "name": "charizard",
         "url": "https://pokeapi.co/api/v2/pokemon/6/"
     },
     {
-        "updated": "2023-01-25 07:13:28.245218",
+        "updated": "2023-01-26 07:11:16.336160",
         "name": "squirtle",
         "url": "https://pokeapi.co/api/v2/pokemon/7/"
     },
     {
-        "updated": "2023-01-25 07:13:28.245224",
+        "updated": "2023-01-26 07:11:16.336165",
         "name": "wartortle",
         "url": "https://pokeapi.co/api/v2/pokemon/8/"
     },
     {
-        "updated": "2023-01-25 07:13:28.245231",
+        "updated": "2023-01-26 07:11:16.336171",
         "name": "blastoise",
         "url": "https://pokeapi.co/api/v2/pokemon/9/"
     },
     {
-        "updated": "2023-01-25 07:13:28.245238",
+        "updated": "2023-01-26 07:11:16.336177",
         "name": "caterpie",
         "url": "https://pokeapi.co/api/v2/pokemon/10/"
     },
     {
-        "updated": "2023-01-25 07:13:28.245245",
+        "updated": "2023-01-26 07:11:16.336182",
         "name": "metapod",
         "url": "https://pokeapi.co/api/v2/pokemon/11/"
     },
     {
-        "updated": "2023-01-25 07:13:28.245251",
+        "updated": "2023-01-26 07:11:16.336188",
         "name": "butterfree",
         "url": "https://pokeapi.co/api/v2/pokemon/12/"
     },
     {
-        "updated": "2023-01-25 07:13:28.245258",
+        "updated": "2023-01-26 07:11:16.336194",
         "name": "weedle",
         "url": "https://pokeapi.co/api/v2/pokemon/13/"
     },
     {
-        "updated": "2023-01-25 07:13:28.245265",
+        "updated": "2023-01-26 07:11:16.336199",
         "name": "kakuna",
         "url": "https://pokeapi.co/api/v2/pokemon/14/"
     },
     {
-        "updated": "2023-01-25 07:13:28.245272",
+        "updated": "2023-01-26 07:11:16.336205",
         "name": "beedrill",
         "url": "https://pokeapi.co/api/v2/pokemon/15/"
     },
     {
-        "updated": "2023-01-25 07:13:28.245278",
+        "updated": "2023-01-26 07:11:16.336210",
         "name": "pidgey",
         "url": "https://pokeapi.co/api/v2/pokemon/16/"
     },
     {
-        "updated": "2023-01-25 07:13:28.245285",
+        "updated": "2023-01-26 07:11:16.336216",
         "name": "pidgeotto",
         "url": "https://pokeapi.co/api/v2/pokemon/17/"
     },
     {
-        "updated": "2023-01-25 07:13:28.245292",
+        "updated": "2023-01-26 07:11:16.336222",
         "name": "pidgeot",
         "url": "https://pokeapi.co/api/v2/pokemon/18/"
     },
     {
-        "updated": "2023-01-25 07:13:28.245298",
+        "updated": "2023-01-26 07:11:16.336227",
         "name": "rattata",
         "url": "https://pokeapi.co/api/v2/pokemon/19/"
     },
     {
-        "updated": "2023-01-25 07:13:28.245304",
+        "updated": "2023-01-26 07:11:16.336233",
         "name": "raticate",
         "url": "https://pokeapi.co/api/v2/pokemon/20/"
     }
